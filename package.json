@@ -1,0 +1,9 @@
+{
+    "name": "ranggasatria-ui",
+    "version": "1.0.0",
+    "description": "Shared master CSS (st-* design system) for all ranggasatria sites",
+    "private": true,
+    "style": "stash.css",
+    "files": ["stash.css", "styleguide", "docs"],
+    "exports": { "./stash.css": "./stash.css" }
+}
